@@ -1,14 +1,15 @@
 {
-  "main.css": "/chronos-pages/static/css/main.d09b5046.chunk.css",
-  "main.js": "/chronos-pages/static/js/main.16916a9c.chunk.js",
-  "main.js.map": "/chronos-pages/static/js/main.16916a9c.chunk.js.map",
-  "runtime~main.js": "/chronos-pages/static/js/runtime~main.d492794d.js",
-  "runtime~main.js.map": "/chronos-pages/static/js/runtime~main.d492794d.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/chronos-pages/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/chronos-pages/static/js/2.6efc73d3.chunk.js.map",
+  "main.css": "/chronos-pages/static/css/main.68947c68.chunk.css",
+  "main.js": "/chronos-pages/static/js/main.3cb96a1d.chunk.js",
+  "main.js.map": "/chronos-pages/static/js/main.3cb96a1d.chunk.js.map",
+  "runtime~main.js": "/chronos-pages/static/js/runtime~main.ec597651.js",
+  "runtime~main.js.map": "/chronos-pages/static/js/runtime~main.ec597651.js.map",
+  "static/css/2.0d9311e0.chunk.css": "/chronos-pages/static/css/2.0d9311e0.chunk.css",
+  "static/js/2.acd4fb23.chunk.js": "/chronos-pages/static/js/2.acd4fb23.chunk.js",
+  "static/js/2.acd4fb23.chunk.js.map": "/chronos-pages/static/js/2.acd4fb23.chunk.js.map",
   "index.html": "/chronos-pages/index.html",
-  "precache-manifest.011a6b6e936194ef580333cf8b1e8b83.js": "/chronos-pages/precache-manifest.011a6b6e936194ef580333cf8b1e8b83.js",
+  "precache-manifest.cec2885d49b7e815d38baa78d7e62a30.js": "/chronos-pages/precache-manifest.cec2885d49b7e815d38baa78d7e62a30.js",
   "service-worker.js": "/chronos-pages/service-worker.js",
-  "static/css/main.d09b5046.chunk.css.map": "/chronos-pages/static/css/main.d09b5046.chunk.css.map",
-  "static/media/logo.svg": "/chronos-pages/static/media/logo.5d5d9eef.svg"
+  "static/css/2.0d9311e0.chunk.css.map": "/chronos-pages/static/css/2.0d9311e0.chunk.css.map",
+  "static/css/main.68947c68.chunk.css.map": "/chronos-pages/static/css/main.68947c68.chunk.css.map"
 }
